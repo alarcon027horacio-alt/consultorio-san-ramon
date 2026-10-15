@@ -1,2 +1,2 @@
 # consultorio-san-ramon
-Paginas de turnos del consultorio 
+Pagina de turno del consultorio 
